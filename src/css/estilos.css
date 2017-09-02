@@ -34,7 +34,7 @@ body{
   margin-top: 10px;
 }
 
-#showcase .button:hover{
+#showcase .button:hover {
   background: inherit;
   color: #fff;
 }
