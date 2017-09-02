@@ -40,13 +40,13 @@ body{
 }
 #section-a{
   padding: 20px;
-  background: #926239;
+  background: #fff;
   color: #fff;
   text-align: center;
 }
 #section-b{
   padding: 20px;
-  background: #f4f4f4;
+  background: #fff;
   text-align: center;
 }
  #section-b, h2{
@@ -62,7 +62,7 @@ body{
 footer{
   margin: 0px;
   padding: 30px;
-  background: #000;
+  background: #fff;
 }
 footer, a {
   color: #fff;
