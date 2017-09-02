@@ -67,22 +67,12 @@ footer{
 footer, a {
   color: #fff;
 }
+
+.contacto {
+}
+
 .texto{
-  border: 1px solid #DBE1EB;
-    font-size: 18px;
-    font-family: Arial, Verdana;
-    padding-left: 7px;
-    padding-right: 7px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    border-radius: 4px;
-    -moz-border-radius: 4px;
-    -webkit-border-radius: 4px;
-    -o-border-radius: 4px;
 }
 .boton {
-  border: 1px solid #DBE1EB;
-  border-radius: 1px;
-  padding: 10px;
 
 }
