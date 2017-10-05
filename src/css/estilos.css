@@ -8,7 +8,7 @@ body{
   line-height:1.6;
   }
 #showcase{
-  background-image: url('../img/4.jpg');
+  background-image: url('../img/5.jpg');
   background-size: cover;
   background-position: center;
   height:100vh;
@@ -59,7 +59,7 @@ body{
  color: #000;
 }
 #section-c, div {
-  padding: 20px; 
+  padding: 20px;
 }
 
 footer{
